@@ -1,0 +1,14 @@
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\bin\Debug\net6.0\demoapp.exe
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\bin\Debug\net6.0\demoapp.deps.json
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\bin\Debug\net6.0\demoapp.runtimeconfig.json
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\bin\Debug\net6.0\demoapp.dll
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\bin\Debug\net6.0\demoapp.pdb
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.AssemblyInfoInputs.cache
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.AssemblyInfo.cs
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.dll
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\refint\demoapp.dll
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.pdb
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\demoapp.genruntimeconfig.cache
+C:\Users\kamalesh.s\source\repos\demoapp\demoapp\obj\Debug\net6.0\ref\demoapp.dll

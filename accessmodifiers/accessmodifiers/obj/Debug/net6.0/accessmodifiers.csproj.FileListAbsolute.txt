@@ -1,0 +1,14 @@
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.AssemblyInfoInputs.cache
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.AssemblyInfo.cs
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\bin\Debug\net6.0\accessmodifiers.exe
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\bin\Debug\net6.0\accessmodifiers.deps.json
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\bin\Debug\net6.0\accessmodifiers.runtimeconfig.json
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\bin\Debug\net6.0\accessmodifiers.dll
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\bin\Debug\net6.0\accessmodifiers.pdb
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.dll
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\refint\accessmodifiers.dll
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.pdb
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\accessmodifiers.genruntimeconfig.cache
+C:\Users\kamalesh.s\source\repos\accessmodifiers\accessmodifiers\obj\Debug\net6.0\ref\accessmodifiers.dll

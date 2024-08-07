@@ -1,0 +1,14 @@
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\bin\Debug\net6.0\demoapp2.exe
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\bin\Debug\net6.0\demoapp2.deps.json
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\bin\Debug\net6.0\demoapp2.runtimeconfig.json
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\bin\Debug\net6.0\demoapp2.dll
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\bin\Debug\net6.0\demoapp2.pdb
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.AssemblyInfoInputs.cache
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.AssemblyInfo.cs
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.dll
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\refint\demoapp2.dll
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.pdb
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\demoapp2.genruntimeconfig.cache
+C:\Users\kamalesh.s\source\repos\demoapp2\demoapp2\obj\Debug\net6.0\ref\demoapp2.dll

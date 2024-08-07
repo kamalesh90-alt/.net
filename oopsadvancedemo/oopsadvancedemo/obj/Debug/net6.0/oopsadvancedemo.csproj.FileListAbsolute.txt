@@ -1,0 +1,14 @@
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\bin\Debug\net6.0\oopsadvancedemo.exe
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\bin\Debug\net6.0\oopsadvancedemo.deps.json
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\bin\Debug\net6.0\oopsadvancedemo.runtimeconfig.json
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\bin\Debug\net6.0\oopsadvancedemo.dll
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\bin\Debug\net6.0\oopsadvancedemo.pdb
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.AssemblyInfoInputs.cache
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.AssemblyInfo.cs
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.dll
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\refint\oopsadvancedemo.dll
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.pdb
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\oopsadvancedemo.genruntimeconfig.cache
+C:\Users\kamalesh.s\source\repos\oopsadvancedemo\oopsadvancedemo\obj\Debug\net6.0\ref\oopsadvancedemo.dll
