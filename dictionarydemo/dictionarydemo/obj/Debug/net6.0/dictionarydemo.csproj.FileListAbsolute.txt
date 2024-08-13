@@ -1,0 +1,14 @@
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\bin\Debug\net6.0\dictionarydemo.exe
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\bin\Debug\net6.0\dictionarydemo.deps.json
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\bin\Debug\net6.0\dictionarydemo.runtimeconfig.json
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\bin\Debug\net6.0\dictionarydemo.dll
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\bin\Debug\net6.0\dictionarydemo.pdb
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.AssemblyInfoInputs.cache
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.AssemblyInfo.cs
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.csproj.CoreCompileInputs.cache
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.dll
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\refint\dictionarydemo.dll
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.pdb
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\dictionarydemo.genruntimeconfig.cache
+C:\Users\kamalesh.s\source\repos\dictionarydemo\dictionarydemo\obj\Debug\net6.0\ref\dictionarydemo.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamalesh.s\\source\\repos\\calctask\\calctask\\calctask.csproj",
-      "projectName": "calctask",
-      "projectPath": "C:\\Users\\kamalesh.s\\source\\repos\\calctask\\calctask\\calctask.csproj",
+      "projectUniqueName": "C:\\Users\\kamalesh.s\\source\\repos\\dictionarydemo\\dictionarydemo\\dictionarydemo.csproj",
+      "projectName": "dictionarydemo",
+      "projectPath": "C:\\Users\\kamalesh.s\\source\\repos\\dictionarydemo\\dictionarydemo\\dictionarydemo.csproj",
       "packagesPath": "C:\\Users\\kamalesh.s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamalesh.s\\source\\repos\\calctask\\calctask\\obj\\",
+      "outputPath": "C:\\Users\\kamalesh.s\\source\\repos\\dictionarydemo\\dictionarydemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kamalesh.s\\AppData\\Roaming\\NuGet\\NuGet.Config",

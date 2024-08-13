@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "calctask/1.0.0": {
+      "dictionarydemo/1.0.0": {
         "runtime": {
-          "calctask.dll": {}
+          "dictionarydemo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "calctask/1.0.0": {
+    "dictionarydemo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
